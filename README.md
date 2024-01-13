@@ -1,2 +1,2 @@
 # personal-project
-Some of my personal projects  : )
+ Responsive Profile Card using HTML and CSS
